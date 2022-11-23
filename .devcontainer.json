@@ -1,0 +1,13 @@
+{
+    "image": "mcr.microsoft.com/devcontainers/ubuntu:jammy",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "mads-hartmann.bash-ide-vscode"
+            ]
+        }
+    },
+    "features": {
+        "ghcr.io/ndbrew/devcontainer-features/sops:latest": {}
+    }
+}
