@@ -1,5 +1,5 @@
 {
-    "image": "mcr.microsoft.com/devcontainers/ubuntu:jammy",
+    "image": "mcr.microsoft.com/devcontainers/base:jammy",
     "customizations": {
         "vscode": {
             "extensions": [
